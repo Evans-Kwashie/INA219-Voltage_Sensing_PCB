@@ -16,6 +16,10 @@ INA219. It's designed as an in-line sensor: the board only carries the
 positive/hot side of the current path, with the circuit's return path 
 completed externally through the system's own ground wiring.
 
+<p align="center">
+  <img src="./INA219.png" alt="INA219 current and power monitor PCB render" width="780">
+</p>
+
 ## Key Design Features
 
 - **INA219AxDCN** current/power monitor IC
@@ -61,3 +65,8 @@ Designed entirely in KiCad 10.
 ## Status
 
 Schematic and PCB complete.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
